@@ -4,7 +4,7 @@ import time
 from datetime import datetime as dt
 from datetime import timezone, timedelta
 
-sender = 'eraildesds@gmail.com'
+sender = '123@gmail.com'
 
 receiver = 'mxphtrthb@firste.ml'
 subject = 'This is the subject'
